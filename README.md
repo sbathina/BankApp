@@ -17,8 +17,15 @@ RESTful API to simulate simple banking operations.
 git clone https://github.com/sbathina/BankApp
 
 ```
+2. Enable Lombok support on your IDE
 
-2. Open IDE of your choice and Import as existing maven project in your workspace
+Refer to the following link for instructions:
+
+```
+https://projectlombok.org/setup/eclipse
+
+```
+3. Open IDE of your choice and Import as existing maven project in your workspace
 
 ```
 - Import existing maven project
@@ -26,7 +33,7 @@ git clone https://github.com/sbathina/BankApp
 - If using STS, Run As Spring Boot App
 
 ```
-3. Default port for the api is 8989
+4. Default port for the api is 8989
 
 
 ### Prerequisites
