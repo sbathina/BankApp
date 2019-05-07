@@ -1,0 +1,20 @@
+ {
+    "accountBalance": 4352,
+    "accountCreated": "2019-05-05T22:01:05.964Z",
+    "accountNumber": 3000,    
+    "accountStatus": "Active",    
+    "accountType": "Checking",
+    "bankInformation": {
+      "branchAddress": {
+	        "address1": "123 McKee Ave",
+	        "address2": "UNIT 4",
+	        "city": "Chicago",
+	        "country": "USA",
+	        "state": "IL",
+	        "zip": "60076"
+      },
+      "branchCode": 1234,
+      "branchName": "Schaumburg",
+      "routingNumber": 676789345
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "contactDetails": {
+    "emailId": "john@test.com",
+    "homePhone": "6150000000",
+    "workPhone": "6151112222"
+  },
+  "customerAddress": {
+        "address1": "123 Domain St",
+        "address2": "Suite D",
+        "city": "Hermitage",
+        "country": "USA",
+        "state": "TN",
+        "zip": "37076"
+  },
+  "customerNumber": 1000,
+  "firstName": "John",
+  "lastName": "Doe",
+  "middleName": "H",
+  "status": "Active"
+}

@@ -1,0 +1,20 @@
+ {
+    "accountBalance": 5000,
+    "accountCreated": "2019-05-05T22:01:05.964Z",
+    "accountNumber": 4001,    
+    "accountStatus": "Active",    
+    "accountType": "Checking",
+    "bankInformation": {
+      "branchAddress": {
+	        "address1": "543 Green Ave",
+	        "address2": "Unit F",
+	        "city": "GreenBay",
+	        "country": "USA",
+	        "state": "WI",
+	        "zip": "53421"
+      },
+      "branchCode": 23453,
+      "branchName": "Lambeau Field",
+      "routingNumber": 456789876
+    }
+}

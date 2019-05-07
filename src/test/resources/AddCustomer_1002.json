@@ -1,0 +1,20 @@
+{
+  "contactDetails": {
+    "emailId": "aaron@test.com",
+    "homePhone": "6080000112",
+    "workPhone": "6081112222"
+  },
+  "customerAddress": {
+        "address1": "123 Green St",
+        "address2": "Suite F",
+        "city": "GreenBay",
+        "country": "USA",
+        "state": "WI",
+        "zip": "53434"
+  },
+  "customerNumber": 1002,
+  "firstName": "Aaron",
+  "lastName": "Rodgers",
+  "middleName": "B",
+  "status": "Active"
+}

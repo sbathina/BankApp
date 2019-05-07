@@ -1,0 +1,20 @@
+{
+  "contactDetails": {
+    "emailId": "roger@test.com",
+    "homePhone": "8470000000",
+    "workPhone": "8471112222"
+  },
+  "customerAddress": {
+        "address1": "123 McKee Ave",
+        "address2": "UNIT 4",
+        "city": "Chicago",
+        "country": "USA",
+        "state": "IL",
+        "zip": "60076"
+  },
+  "customerNumber": 1001,
+  "firstName": "Roger",
+  "lastName": "Federer",
+  "middleName": "D",
+  "status": "Active"
+}

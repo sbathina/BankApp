@@ -1,0 +1,20 @@
+ {
+    "accountBalance": 8740,
+    "accountCreated": "2019-05-05T22:01:05.964Z",
+    "accountNumber": 5000,    
+    "accountStatus": "Active",    
+    "accountType": "Checking",
+    "bankInformation": {
+      "branchAddress": {
+	        "address1": "123 Domain St",
+	        "address2": "Suite D",
+	        "city": "Hermitage",
+	        "country": "USA",
+	        "state": "TN",
+	        "zip": "37076"
+      },
+      "branchCode": 65564,
+      "branchName": "Nashville Shores",
+      "routingNumber": 234789876
+    }
+}
