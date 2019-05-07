@@ -1,12 +1,12 @@
-# Banking Application using Spring Boot
+# Banking Application using Java8, Spring Boot, Spring Security and H2 DB
 
 RESTful API to simulate simple banking operations. 
 
 ## Requirements
 
-•	CRUD operations for customers and accounts.
-•	Support deposits and withdrawals on accounts.
-•	Internal transfer support (i.e. a customer may transfer funds from one account to another).
+**	CRUD operations for customers and accounts.
+**	Support deposits and withdrawals on accounts.
+**	Internal transfer support (i.e. a customer may transfer funds from one account to another).
 
 
 ## Getting Started
@@ -31,9 +31,9 @@ git clone https://github.com/sbathina/BankApp
 
 ### Prerequisites
 
-Java 8
-Spring Tool Suite 4 or similar IDE
-[Maven](https://maven.apache.org/) - Dependency Management
+* Java 8
+* Spring Tool Suite 4 or similar IDE
+* [Maven](https://maven.apache.org/) - Dependency Management
 
 ### Maven Dependencies
 
@@ -61,9 +61,9 @@ http://localhost:8989/bank-api/swagger-ui.html
 
 ```
 
-## H2 Database Console
+## H2 In-Memory Database
 
-Make sure to use jdbc:h2:mem:testdb as your jdbc url. If you intend to you use your own database,
+Make sure to use jdbc:h2:mem:testdb as your jdbc url. If you intend to you use custom database name, please
 define datasource properties in application.yml
 
 ```
